@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poker AR</string>
+    <string name="searching_cards">准备识别扑克牌...</string>
+    <string name="card_detected">检测到扑克牌!</string>
+    <string name="tip_text">将扑克牌放在摄像头前 | A-10 有效</string>
+</resources>
